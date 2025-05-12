@@ -40,7 +40,7 @@ A visually appealing **static travel landing page** built with HTML and CSS, des
     
     git clone https://github.com/yourusername/travel-website.git
     cd travel-website
-2. Run Locally
+### 2. Run Locally
 Simply open the index.html file in your browser:
 
         open index.html
