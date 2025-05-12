@@ -23,12 +23,12 @@ A visually appealing **static travel landing page** built with HTML and CSS, des
 ---
 
 ## 📁 Folder Structure
+     travel-website/
+     ├── index.html
+     ├── style.css
+       └── assets/
+        └── images/
 
-travel-website/
-├── index.html
-├── style.css
-└── assets/
-└── images/
 
 
 ---
@@ -37,7 +37,7 @@ travel-website/
 
 ### 1. Clone the repository
 
-    ```bash
+    
     git clone https://github.com/yourusername/travel-website.git
     cd travel-website
 2. Run Locally
@@ -47,6 +47,6 @@ Simply open the index.html file in your browser:
 
 ---
 
-##⭐ Show Your Support
+## ⭐ Show Your Support
 If you like this project, give it a ⭐ and share it with your friends!
 
