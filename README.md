@@ -38,7 +38,7 @@ A visually appealing **static travel landing page** built with HTML and CSS, des
 ### 1. Clone the repository
 
     
-    git clone https://github.com/yourusername/travel-website.git
+    git clone https://github.com/Uvajanani/Travel.git
     cd travel-website
 ### 2. Run Locally
 Simply open the index.html file in your browser:
